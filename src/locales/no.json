@@ -1,0 +1,13 @@
+{
+  "buttons": {
+    "cancel": "Cancel",
+    "close": "Close",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "submit": "Submit",
+    "agree": "Agree",
+    "disagree": "Disagree",
+    "search": "Search",
+  }
+}
